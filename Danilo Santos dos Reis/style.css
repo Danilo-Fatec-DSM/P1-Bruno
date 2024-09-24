@@ -1,0 +1,17 @@
+h1 {
+    font-size: 16px;
+    color: blue;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    width: 200px;
+}
+
+div {
+    display: flex;
+    justify-content: space-between; 
+}
